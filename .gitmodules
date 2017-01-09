@@ -1,0 +1,3 @@
+[submodule "library/intercom-ios"]
+	path = library/intercom-ios
+	url = https://github.com/intercom/intercom-ios
