@@ -2,6 +2,8 @@
 
 Xamarin iOS bindings for the [Intercom SDK](https://intercom.io).
 
+Latest release: https://github.com/lipka/intercom-ios-xamarin/releases/download/3.0.22/IntercomSDK.dll.zip
+
 ## Usage
 
 ``` c#
@@ -23,7 +25,7 @@ Check out more integration samples in the [Intercom SDK documentation](https://d
 
 The current version of the SDK is compatible with iOS 8.0+.
 
-## TODO
+## Contributing
 
 Pull requests welcome!
 
